@@ -1,0 +1,15 @@
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\bin\Debug\net6.0\Ex03_Lab2.exe
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\bin\Debug\net6.0\Ex03_Lab2.deps.json
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\bin\Debug\net6.0\Ex03_Lab2.runtimeconfig.json
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\bin\Debug\net6.0\Ex03_Lab2.dll
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\bin\Debug\net6.0\Ex03_Lab2.pdb
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\Ex03_Lab2.csproj.AssemblyReference.cache
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\Ex03_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\Ex03_Lab2.AssemblyInfoInputs.cache
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\Ex03_Lab2.AssemblyInfo.cs
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\Ex03_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\Ex03_Lab2.dll
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\refint\Ex03_Lab2.dll
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\Ex03_Lab2.pdb
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\Ex03_Lab2.genruntimeconfig.cache
+C:\Users\tuan ngoc\source\repos\Ex01_Lab2\Ex03_Lab2\obj\Debug\net6.0\ref\Ex03_Lab2.dll
